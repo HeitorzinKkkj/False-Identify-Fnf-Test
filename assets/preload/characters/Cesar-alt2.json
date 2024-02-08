@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-90
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-94
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MISS LEFT"
+		},
+		{
+			"offsets": [
+				4,
+				-108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MISS DOWN"
+		},
+		{
+			"offsets": [
+				2,
+				-96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MISS RIGHT"
+		},
+		{
+			"offsets": [
+				-4,
+				-93
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MISS UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cesar-alt",
+	"position": [
+		-350,
+		-355
+	],
+	"healthicon": "circle",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		160,
+		330
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

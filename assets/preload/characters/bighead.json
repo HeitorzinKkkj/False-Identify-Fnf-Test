@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				20,
+				131
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bighead Idle"
+		},
+		{
+			"offsets": [
+				20,
+				131
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bighead Idle"
+		},
+		{
+			"offsets": [
+				20,
+				131
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bighead Idle"
+		},
+		{
+			"offsets": [
+				20,
+				131
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bighead Idle"
+		},
+		{
+			"offsets": [
+				20,
+				131
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bighead Idle"
+		},
+		{
+			"offsets": [
+				20,
+				131
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "2",
+			"indices": [],
+			"name": "bighead Idle"
+		},
+		{
+			"offsets": [
+				20,
+				131
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "3",
+			"indices": [],
+			"name": "bighead Idle"
+		},
+		{
+			"offsets": [
+				20,
+				131
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "4",
+			"indices": [],
+			"name": "bighead Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bighead",
+	"position": [
+		-350,
+		-215
+	],
+	"healthicon": "circle",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

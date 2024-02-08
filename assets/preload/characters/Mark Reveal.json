@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				20,
+				-220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "markreveal Idle"
+		},
+		{
+			"offsets": [
+				20,
+				-220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "markreveal Idle"
+		},
+		{
+			"offsets": [
+				20,
+				-220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "markreveal Idle"
+		},
+		{
+			"offsets": [
+				20,
+				-220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "markreveal Idle"
+		},
+		{
+			"offsets": [
+				20,
+				-220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "markreveal Idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/markreveal",
+	"position": [
+		-250,
+		-215
+	],
+	"healthicon": "circle",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-165,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}
