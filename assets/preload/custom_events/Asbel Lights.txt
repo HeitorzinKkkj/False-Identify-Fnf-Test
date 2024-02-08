@@ -1,0 +1,16 @@
+1 = Rojo
+2 = Naranja
+3 = Mostaza
+4 = Amarillo
+5 = Lima
+6 = Verde
+7 = Aqua
+8 = Azul claro
+9 = Azul Fuerte
+10 = Azul Rey
+11 = Morado Fuerte
+12 = Lila
+13 = Morado 
+14 = Rosa
+15 = Rosa Fuerte
+16 = Negro

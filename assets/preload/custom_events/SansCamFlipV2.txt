@@ -1,0 +1,3 @@
+Flips the camera with almost zero moderation from you!
+
+I say use this instead of the normal one but idk how stable it might be in comparison to the two seperate scripts
